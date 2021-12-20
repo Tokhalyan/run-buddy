@@ -58,7 +58,7 @@ section {
     padding: 60px;
 }
 .hero {
-    background-image: url("../images/hero-bg.jpeg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -99,6 +99,9 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
+}
+.habits h1 {
+    color: #fce138;
 }
 /* Hero style end */
 .intro {
